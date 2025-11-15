@@ -3,7 +3,7 @@
 
 <h1 align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJqMTNybWFkYmZ3OHh5ZXZjdjVpMjh5eWsxaml4MHoyaDl2ODhwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1154CgmtPPa4lq/200.webp" width="60"<b> 𝕰𝖘𝖙𝖗𝖚𝖈𝖙𝖚𝖗𝖆 𝖉𝖊 𝕯𝖆𝖙𝖔𝖘  </b><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJqMTNybWFkYmZ3OHh5ZXZjdjVpMjh5eWsxaml4MHoyaDl2ODhwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1154CgmtPPa4lq/200.webp" width="60"></h1>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c4/95/90/c495906bdc63b24dfd9e44099616a5f4.gif" 
+  <img src="https://i.pinimg.com/originals/58/b8/e0/58b8e0413435942b91ec94a5d9adf028.gif" 
 </p>
 
 
