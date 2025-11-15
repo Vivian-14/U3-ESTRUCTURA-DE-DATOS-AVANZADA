@@ -18,7 +18,7 @@
 
  | GUIADOS | LINKS |
 | ------------- | ------------- |
-| U3 EJERCICIO GUIADO SWING  | [Ver ejercicio](https://github.com/Vivian-14/Vivian-14/blob/main/UNIDAD3/U3%20EJERCICIO%20GUIADO%20SWING.pdf)|
+| U3 EJERCICIO GUIADO SWING  | [Ver ejercicio]()|
 
 
 
