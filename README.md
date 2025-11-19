@@ -1,6 +1,6 @@
 
-<h1 align="center"><img src="https://i.pinimg.com/originals/da/76/63/da7663586e488f796c986691ffe057e9.gif" width="60"><img src="https://i.pinimg.com/originals/da/76/63/da7663586e488f796c986691ffe057e9.gif" width="60"><img src="https://i.pinimg.com/originals/da/76/63/da7663586e488f796c986691ffe057e9.gif" width="60"><img src="https://i.pinimg.com/originals/da/76/63/da7663586e488f796c986691ffe057e9.gif" width="60"><img src="https://i.pinimg.com/originals/da/76/63/da7663586e488f796c986691ffe057e9.gif" width="60"><b><span style="color:red;">𝕰𝖘𝖙𝖗𝖚𝖈𝖙𝖚𝖗𝖆 𝖉𝖊 𝕯𝖆𝖙𝖔𝖘</span></b>
-<img src="https://i.pinimg.com/originals/da/76/63/da7663586e488f796c986691ffe057e9.gif" width="60"><imgsrc="https://i.pinimg.com/originals/da/76/63/da7663586e488f796c986691ffe057e9.gif" width="60"><img src="https://i.pinimg.com/originals/da/76/63/da7663586e488f796c986691ffe057e9.gif" width="60"><img src="https://i.pinimg.com/originals/da/76/63/da7663586e488f796c986691ffe057e9.gif" width="60"><img src="https://i.pinimg.com/originals/da/76/63/da7663586e488f796c986691ffe057e9.gif" width="60"><img src="https://i.pinimg.com/originals/da/76/63/da7663586e488f796c986691ffe057e9.gif" width="60">
+<h1 align="center"><img src="https://i.pinimg.com/originals/da/76/63/da7663586e488f796c986691ffe057e9.gif" width="60"><img src="https://i.pinimg.com/originals/da/76/63/da7663586e488f796c986691ffe057e9.gif" width="60"><img src="https://i.pinimg.com/originals/da/76/63/da7663586e488f796c986691ffe057e9.gif" width="60"><img src="https://i.pinimg.com/originals/da/76/63/da7663586e488f796c986691ffe057e9.gif" width="60"><b><span style="color:red;">𝕰𝖘𝖙𝖗𝖚𝖈𝖙𝖚𝖗𝖆 𝖉𝖊 𝕯𝖆𝖙𝖔𝖘</span></b>
+<img src="https://i.pinimg.com/originals/da/76/63/da7663586e488f796c986691ffe057e9.gif" width="60"><imgsrc="https://i.pinimg.com/originals/da/76/63/da7663586e488f796c986691ffe057e9.gif" width="60"><img src="https://i.pinimg.com/originals/da/76/63/da7663586e488f796c986691ffe057e9.gif" width="60"><img src="https://i.pinimg.com/originals/da/76/63/da7663586e488f796c986691ffe057e9.gif" width="60"><img src="https://i.pinimg.com/originals/da/76/63/da7663586e488f796c986691ffe057e9.gif" width="60">
 </h1>
 
 <p align="center">
@@ -18,7 +18,9 @@
 
  | GUIADOS | LINKS |
 | ------------- | ------------- |
-| U3 EJERCICIO GUIADO SWING  | [Ver ejercicio]()|
+| U3 EJERCICIO GUIADO SWING  | [Ver PDF](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/U3%20EJERCICIO%20GUIADO%20SWING.pdf)|
+
+
 
 
 
