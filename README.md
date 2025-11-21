@@ -25,7 +25,7 @@
 
  | PRACTICOS | LINKS |
 | ------------- | ------------- |
-| U3 IDENTIFICACION DE ELEMENTOS DE UN ARBOL  | [Ver PDF]()|
+| U3 IDENTIFICACION DE ELEMENTOS DE UN ARBOL  | [Ver PDF](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSPRACTICOS/Identificaci%C3%B3n%20de%20Elementos%20de%20un%20%C3%81rbol.pdf)|
 
 
 
