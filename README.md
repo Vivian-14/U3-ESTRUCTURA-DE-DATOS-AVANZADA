@@ -12,13 +12,18 @@
 <div>
 
 
-<h2> ✞ 𝔄𝔩𝔬𝔫𝔡𝔯𝔞 𝔙𝔦𝔞𝔫𝔫𝔢𝔶 ℌ𝔢𝔯𝔫á𝔫𝔡𝔢𝔷 𝔗𝔬𝔯𝔯𝔢𝔰 ✞  </h2>
+<div align="center">
 
-<h2> ✞ ᵁ³ ᴱˢᵀᴿᵁᶜᵀᵁᴿᴬ ᴰᴱ ᴰᴬᵀᴼˢ ᴬⱽᴬᴺᶻᴬᴰᴬ ✞  </h2>
-           <h2> ✞  ɢᴛɪᴅ𝟣𝟦𝟣 ✞  </h2>
+<h2> ✞ 𝔄𝔩𝔬𝔫𝔡𝔯𝔞 𝔙𝔦𝔞𝔫𝔫𝔢𝔶 ℌ𝔢𝔯𝔫á𝔫𝔡𝔢𝔷 𝔗𝔬𝔯𝔯𝔢𝔰  ɢᴛɪᴅ𝟣𝟦𝟣 ✞</h2>
+
+<h2> ✞ ᵁ³ ᴱˢᵀᴿᵁᶜᵀᵁᴿᴬ ᴰᴱ ᴰᴬᵀᴼˢ ᴬⱽᴬᴺᶻᴬᴰᴬ ✞</h2>
+
+</div>
+
+
 
  | GUIADOS | LINKS |
-| ------------- | ------------- |
+| ------------- | ------------- |                                                                                                                                                       
 | U3 EJERCICIO GUIADO SWING  | [Ver PDF](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/U3%20EJERCICIO%20GUIADO%20SWING.pdf)|
 | U3 EJERCICIO GUIADO ARBOLES | [Ver PDF](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/EJERCICIO%20GUIADO%20ARBOLES.pdf)|
 
