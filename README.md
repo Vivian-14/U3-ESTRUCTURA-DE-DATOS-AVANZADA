@@ -26,7 +26,11 @@
 | ------------- | ------------- |                                                                                                                                                       
 | U3 EJERCICIO GUIADO SWING  | [Ver PDF](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/U3%20EJERCICIO%20GUIADO%20SWING.pdf)|
 | U3 EJERCICIO GUIADO ARBOLES | [Ver PDF](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/EJERCICIO%20GUIADO%20ARBOLES.pdf)|
-
+| U3 IMPLEMENTACION ARBOL BINARIO | [Ver PDF](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/GUIADO%20IMPLEMENTACION%20ARBOL%20BINARIO.pdf)|
+| U3 IMPLEMENTACION ARBOL BINARIO | [Ver PDF](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/GUIADO%20IMPLEMENTACION%20ARBOL%20BINARIO.pdf)|
+| NODO ARBOL | [CODIGO](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/NodoArbol.java)|
+| ARBOL BINARIO | [CODIGO](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/ArbolBinario.java)|
+| PRUEBA ARBOL | [CODIGO](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/PruebaArbol.java)|
 
 
  | PRACTICOS | LINKS |
