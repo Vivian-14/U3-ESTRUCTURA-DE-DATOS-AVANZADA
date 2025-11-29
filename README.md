@@ -32,7 +32,7 @@
 | ARBOL BINARIO | [CODIGO](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/ArbolBinario.java)|
 | PRUEBA ARBOL | [CODIGO](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/PruebaArbol.java)|
 | NEARDPOD ARBOLES | [VER PDF](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/NearPod%20Arboles.pdf)|
-
+| NEARDPOD CONJUNTO | [VER PDF]()|
 
  | PRACTICOS | LINKS |
 | ------------- | ------------- |
