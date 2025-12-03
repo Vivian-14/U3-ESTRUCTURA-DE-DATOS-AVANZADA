@@ -33,6 +33,7 @@
 | PRUEBA ARBOL | [CODIGO](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/PruebaArbol.java)|
 | NEARDPOD ARBOLES | [VER PDF](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/NearPod%20Arboles.pdf)|
 | NEARDPOD CONJUNTO | [VER PDF](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/NearPod%20Conjunto.pdf)|
+| MAPA MENTAL | [VER MAPA](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/MAPA%20MENTAL.pdf)|
 
  | PRACTICOS | LINKS |
 | ------------- | ------------- |
