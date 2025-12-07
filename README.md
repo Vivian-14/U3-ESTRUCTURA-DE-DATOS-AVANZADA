@@ -43,9 +43,7 @@
 
 
 <b><span style="color:red;"> Ejercicios Prácticos con Swing </span></b>
- | PRACTICOS | LINKS |
-| ------------- | ------------- |
-| U3 IDENTIFICACION DE ELEMENTOS DE UN ARBOL  | [Ver PDF]()|
+
 
 | PRACTICO SWING | CODIGO | PRUEBAS |
 | -------------- | ------- | -------- |
