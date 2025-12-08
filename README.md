@@ -49,7 +49,7 @@
 | -------------- | ------- | -------- |
 | EJERCICIO 01 SIMULACION DE DOM | [CODIGO]() | [PRUEBA]() |
 | EJERCICIO 02 VISUALIZADOR DE DE ARBOL BINARIO DE BUSQUEDA ABB | [CODIGO]() | [PRUEBA]() |
-| EJERCICIO 03 MOCHILA | [CODIGO]() | [PRUEBA]() |
+| EJERCICIO 03 MOCHILA | [CODIGO](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/Swing/MochilaFrame.java) | [PRUEBA](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/Swing/MochilaFrame.mkv) |
 
 
 
