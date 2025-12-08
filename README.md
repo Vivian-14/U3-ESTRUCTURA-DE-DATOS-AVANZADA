@@ -34,16 +34,22 @@
 | NEARDPOD ARBOLES | [VER PDF](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/NearPod%20Arboles.pdf)|
 | NEARDPOD CONJUNTO | [VER PDF](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/NearPod%20Conjunto.pdf)|
 | MAPA MENTAL | [VER MAPA](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/MAPA%20MENTAL.pdf)|
+| NEARDPOD DICCIONARIOS | [VER PDF](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSGUIADOS/NearPod%20Diccionarios.pdf)|
+
 
  | PRACTICOS | LINKS |
 | ------------- | ------------- |
 | U3 IDENTIFICACION DE ELEMENTOS DE UN ARBOL  | [Ver PDF](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/EJERCICIOSPRACTICOS/Identificaci%C3%B3n%20de%20Elementos%20de%20un%20%C3%81rbol.pdf)|
 
 
+<b><span style="color:red;"> Ejercicios Prácticos con Swing </span></b>
 
 
-
-
+| PRACTICO SWING | CODIGO | PRUEBAS |
+| -------------- | ------- | -------- |
+| EJERCICIO 01 SIMULACION DE DOM | [CODIGO]() | [PRUEBA]() |
+| EJERCICIO 02 VISUALIZADOR DE DE ARBOL BINARIO DE BUSQUEDA ABB | [CODIGO]() | [PRUEBA]() |
+| EJERCICIO 03 MOCHILA | [CODIGO]() | [PRUEBA]() |
 
 
 
