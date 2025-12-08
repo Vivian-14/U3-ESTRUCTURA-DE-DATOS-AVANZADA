@@ -47,8 +47,8 @@
 
 | PRACTICO SWING | CODIGO | PRUEBAS |
 | -------------- | ------- | -------- |
-| EJERCICIO 01 SIMULACION DE DOM | [CODIGO]() | [PRUEBA]() |
-| EJERCICIO 02 VISUALIZADOR DE DE ARBOL BINARIO DE BUSQUEDA ABB | [CODIGO]() | [PRUEBA]() |
+| EJERCICIO 01 SIMULACION DE DOM | [CODIGO](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/Swing/DOMSimulator.java) | [PRUEBA](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/Swing/dom.mkv) |
+| EJERCICIO 02 VISUALIZADOR DE DE ARBOL BINARIO DE BUSQUEDA ABB | [CODIGO](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/Swing/ABBVisualizer.java) | [PRUEBA](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/Swing/ArbolBinario.mkv) |
 | EJERCICIO 03 MOCHILA | [CODIGO](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/Swing/MochilaFrame.java) | [PRUEBA](https://github.com/Vivian-14/U3-ESTRUCTURA-DE-DATOS-AVANZADA/blob/main/Swing/MochilaFrame.mkv) |
 
 
